@@ -1,0 +1,67 @@
+
+{
+	"basics": {
+		"name": "Yogesh Meena",
+		"label": "Student",
+		"picture": "file:///C:/Users/DEELL/Pictures/sutaliya/DSCN1601.JPG",
+		"email": "2020kucp1032@iiitkota.ac.in",
+		
+		
+		"summary": "I am persuing my B.tech in Computer Science & engineering at  iiit kota .",
+		"location": {
+			"address": "Godiya Mehar",
+			"postalCode": "325220",
+			"city": "Chhabra",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+				
+			{
+				"network": "Github",
+				"username": "yogesh7878",
+				"url": "https://github.com/yogesh7878"
+			},
+			{
+				"network": "linkedin",
+				"username": "Yogesh Meena",
+				"url": "https://www.linkedin.com/in/yogesh-meena-800679200"
+			}
+            {
+				"network": "Instagram",
+				"username": "2002yogesh",
+				"url": "https://www.instagram.com/2002yogesh/"
+			}
+		]
+	},
+	
+	
+	"volunteer": [{
+		"organization": "Incognito club",
+		"position": "Member",
+		"startDate": "2020-10-02 // Note Date Format",
+		"summary": " This club promot the music, drama and many talents and i joined it , as i am intrested in intrument play ",
+		"highlights": ["Instrument play"]
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Btech",
+		"startDate": "2020-10-02 //Date",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+    }],
+
+	
+
+	"skills": [{
+		"level": "Beginner",
+		"keywords": ["HTML", "CSS", "Javascript", "php", "C", "MySQL"]
+	}],
+	"interests": [{
+		"name": "Driving,Instrument Play",
+		"keywords": ["Dholak", "combo"]
+	}]
+	
+}
