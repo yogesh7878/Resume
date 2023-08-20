@@ -7,7 +7,7 @@
 		"email": "2020kucp1032@iiitkota.ac.in",
 		
 		
-		"summary": "I am persuing my B.tech in Computer Science & engineering at  iiit kota .",
+		"summary": "intern experience . Proficient in programming languages such as Python and SQL, with expertise in data analytics, data modeling, and software development. Demonstrated ability to solve complex problems and deliver high-quality solutions within tight deadlines. Strong communication skills with experience working with cross-functional teams.beside it good knowledge of friont end development. ",
 		"location": {
 			"address": "Godiya Mehar",
 			"postalCode": "325220",
@@ -16,6 +16,11 @@
 			"region": "Rajasthan"
 		},
 		"profiles": [
+			{
+				"network": "Resume",
+				"username": "Yogesh Meena",
+				"url": "https://drive.google.com/file/d/1VtOTMCgJC5c-sVTDTQUuWb1FnVCA6SHl/view?usp=drive_link"
+			},
 				
 			{
 				"network": "Github",
@@ -45,7 +50,7 @@
 	}],
 	"education": [{
 		"institution": "Indian Institute of Information technology,kota",
-		"area": "Engineering",
+		"area": "Computer science and engineering",
 		"studyType": "Btech",
 		"startDate": "2020-10-02 //Date",
 		"courses": [
@@ -56,8 +61,12 @@
 	
 
 	"skills": [{
-		"level": "Beginner",
-		"keywords": ["HTML", "CSS", "Javascript", "php", "C", "MySQL"]
+		"level": "Professional",
+		"keywords": ["Programming languages-Python,SQL
+,html,css,javascript.
+Excel,Mysql,Redash,word
+Good Communication (English and
+Hindi), Presentation skills ,Team work."]
 	}],
 	"interests": [{
 		"name": "Driving,Instrument Play",
